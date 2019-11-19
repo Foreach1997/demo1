@@ -56,6 +56,7 @@ class Demo1ApplicationTests {
        // redisTemplate.boundSetOps("xl_set").add(new String(b,"utf-8"));
         //BeanUtils.copyProperties();
         //redisTemplate.opsForHash().
+        System.out.println(123);
     }
 
     public static void main(String[] args) {
